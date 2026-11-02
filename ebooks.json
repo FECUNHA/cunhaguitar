@@ -1,0 +1,57 @@
+{
+  "fonte": "https://drive.google.com/drive/folders/1B1Jd7jS7uO3Qez0zWmSf0eoYCTJQHoOC",
+  "atualizado_em": "2026-11-02",
+  "ebooks": [
+    {
+      "id": "proud-mary",
+      "title": "Proud Mary",
+      "band": "Creedence Clearwater Revival",
+      "arquivo": "Proud-Mary-PDF-Tablatura-Cunha-Guitar-Play.pdf",
+      "url": "https://drive.google.com/file/d/1LYklymwbZkecjiR9w8KkkWPLXjJIkZgw/view"
+    },
+    {
+      "id": "dream-on",
+      "title": "Dream On",
+      "band": "Aerosmith",
+      "arquivo": "Dream-On-Ebook-AeroSmith-CunhaGuitarPlay.pdf",
+      "url": "https://drive.google.com/file/d/12naT3EUpo_-QdHmNHlQwB_2EUVtCMQc0/view"
+    },
+    {
+      "id": "war-pigs",
+      "title": "War Pigs",
+      "band": "Black Sabbath",
+      "arquivo": "War_Pigs_Ebook_Fernando_Cunha.pdf",
+      "url": "https://drive.google.com/file/d/18RvYoEmj0HBRsvUfyE6U7Lkulmb6N3YD/view"
+    },
+    {
+      "id": "paranoid",
+      "title": "Paranoid",
+      "band": "Black Sabbath",
+      "arquivo": "Paranoid_Tablatura_Fernando_Cunha.pdf",
+      "url": "https://drive.google.com/file/d/1aJUgLkTaBTRTtsxU9cYq5mfG6yLzpI70/view"
+    },
+    {
+      "id": "iron-man",
+      "title": "Iron Man",
+      "band": "Black Sabbath",
+      "arquivo": "Iron_Man_Tablatura_Fernando_Cunha.pdf",
+      "url": "https://drive.google.com/file/d/1fxcxp9LIQMC-6lqztoLhV6dTgODKRT9D/view"
+    },
+    {
+      "id": "smoke",
+      "title": "Smoke on the Water",
+      "band": "Deep Purple",
+      "arquivo": null,
+      "url": null,
+      "status": "em-breve"
+    }
+  ],
+  "extras": [
+    {
+      "id": "linguagem-musical-do-blues",
+      "title": "Linguagem Musical do Blues",
+      "arquivo": "linguagem-musical-do-blues-2.pdf",
+      "url": "https://drive.google.com/file/d/1ugIe1HBzUl2Y3F27Hu_qxLIclNumn9XC/view"
+    }
+  ]
+}
